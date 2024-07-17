@@ -29,7 +29,7 @@
             <h3>
                 <a href='https://vue3-to-do.vercel.app/' target="_blank" title='Просмотр демо-версии'>Todo</a>
             </h3>
-            <p><a href='https://github.com/tonyap92/clothing-store' target="_blank" title='Открыть репозиторий'>Открыть
+            <p><a href='https://github.com/AntoninaPavlova/Vue3-ToDo' target="_blank" title='Открыть репозиторий'>Открыть
                     репозиторий</a></p>
             <p> Vite, Vue 3, JavaScript, Vue-Router, Сomposition API, Vue Toastification, VueUse Core, UUID, I18N</p>
         </td>
