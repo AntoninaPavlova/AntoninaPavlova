@@ -29,7 +29,7 @@
             <h3>
                 <a href='https://vue3-to-do.vercel.app/' target="_blank" title='Просмотр демо-версии'>Todo</a>
             </h3>
-            <p><a href='https://github.com/AntoninaPavlova/Vue3-ToDo' target="_blank" title='Открыть репозиторий'>Открыть
+            <p><a href='https://github.com/AntoninaPavlova/todo-vue3' target="_blank" title='Открыть репозиторий'>Открыть
                     репозиторий</a></p>
             <p> Vite, Vue 3, JavaScript, Vue-Router, Сomposition API, Vue Toastification, VueUse Core, UUID, I18N</p>
         </td>
@@ -42,7 +42,7 @@
             <h3>
                 <a href='https://game-hello-two.vercel.app' target="_blank" title='Просмотр демо-версии'>Game Hello</a>
             </h3>
-            <p><a href='https://github.com/AntoninaPavlova/Game-Hello' target="_blank" title='Открыть репозиторий'>Открыть
+            <p><a href='https://github.com/AntoninaPavlova/game-hello-js' target="_blank" title='Открыть репозиторий'>Открыть
                     репозиторий</a></p>
             <p> HTML, CSS, LESS, JavaScript </p>
         </td>
